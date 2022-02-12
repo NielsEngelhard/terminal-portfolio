@@ -1,0 +1,27 @@
+{
+  "social": {
+    "instagram": "nielse24",
+    "github": "NielsEngelhard",
+    "linkedin": "nielsengelhard"
+  },
+  "colors": {
+    "light": {
+      "background": "#11052C",
+      "foreground": "#3D087B",
+      "yellow": "#D79921",
+      "green": "#98971A",
+      "gray": "#7C6F64",
+      "blue": "#458588",
+      "red": "#CA2124"
+    },
+    "dark": {
+      "background": "#11052C",
+      "foreground": "#00E1C8",
+      "yellow": "#FFFADE",
+      "green": "#2BC20E",
+      "gray": "#FDE9FF",
+      "blue": "#0072CF",
+      "red": "#AD270E"
+    }
+  }
+}
